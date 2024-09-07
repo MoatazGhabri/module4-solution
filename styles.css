@@ -1,17 +1,14 @@
-/* Custom style for h2 (item name) */
 h2.item-name {
-    color: #007bff; /* Bootstrap primary color or use any custom color */
+    color: #007bff; 
     font-weight: bold;
     text-align: center;
     margin-top: 20px;
   }
   
-  /* Add margins to back button */
   .back-button {
     margin-top: 20px;
   }
   
-  /* Style for the items list */
   .items-list {
     margin-top: 20px;
   }
